@@ -1,0 +1,3 @@
+Unit test summary: 6 tests passed.
+Coverage: prerequisite ordering; mastered-topic exclusion; unknown target handling; cycle rejection; self-dependency rejection; recommendation explanations.
+Re-run locally with: python -m unittest discover -s tests -v
